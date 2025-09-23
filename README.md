@@ -73,11 +73,21 @@
       <img src="https://img.shields.io/badge/Vivado-FF1B2D?style=flat&logo=xilinx&logoColor=white" />
     </td>
   </tr>
+     
 </table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anuj-vijay-patil/">
+    <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnujPatil110377">
+    <img src="https://img.shields.io/badge/github-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://myportfolio707.netlify.app/">
+    <img src="https://img.shields.io/badge/portfolio-ff5722?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:b22ee010@iitj.ac.in">
+    <img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/anuj-vijay-patil/)
-[![](https://img.shields.io/badge/github-100000)](https://github.com/AnujPatil110377)
-[![](https://img.shields.io/badge/portfolio-ff5722)](https://myportfolio707.netlify.app/)
-[![](https://img.shields.io/badge/email-d14836)](mailto:b22ee010@iitj.ac.in)
-</div>
- 
+ </div>
