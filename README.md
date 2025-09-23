@@ -10,7 +10,6 @@
      🚁 Drone Navigation • Computer Vision • IoT
      🎮 SLAM • Reinforcement Learning • Real-time Systems
 </pre>
-<br>
  <p style="text-align: center;">💻 Tech Stack</p>
 
 <table>
