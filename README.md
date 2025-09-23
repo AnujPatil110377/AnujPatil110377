@@ -74,7 +74,7 @@
   </tr>
      
 </table>
-<p align="center">
+<div align="center" style="margin-top: 40px;">
   <a href="https://www.linkedin.com/in/anuj-vijay-patil/">
     <img src="https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -87,6 +87,7 @@
   <a href="mailto:b22ee010@iitj.ac.in">
     <img src="https://img.shields.io/badge/email-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
+</div>
+
 
  </div>
