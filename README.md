@@ -1,20 +1,97 @@
+﻿<div align="center">
+
+#  Anuj Vijay Patil
+
+<img src="assets/banner.gif" width="800" alt="banner"/>
+
+### Software Engineer with a passion for Robotics 
+
+*Building autonomous systems that bridge the digital and physical worlds*
+
+</div>
+
+---
+
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
-<br><br>
-<pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
-</pre>
-<br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+
+##  What I Do
+
+**Autonomous Navigation**  **Reinforcement Learning**  **ROS2**  **Control Systems**
+
+</div>
+
+<img src="assets/line.gif" width="100%" height="20"/>
+
+<div align="center">
+
+###  Currently Working On
+
+ **TurtleBot4 RL Navigation** - TD3-based autonomous navigation in cluttered environments  
+ **PX4 Fast Planner** - Real-time obstacle avoidance for autonomous drones  
+ **Semantic Segmentation** - Safe landing detection for aerial vehicles  
+ **Fault-Tolerant Control** - Motor-failure tolerating algorithms for quadcopters
+
+</div>
+
+<img src="assets/line.gif" width="100%" height="20"/>
+
+<div align="center">
+
+###  Tech Stack
+
+**Languages:** C++  Python  MATLAB  JavaScript  
+**Robotics:** ROS2  Gazebo  PX4  Isaac-Sim  Gymnasium  
+**ML/AI:** PyTorch  OpenCV  TensorFlow Lite  
+**Tools:** Git  Docker  Linux  SolidWorks
+
+</div>
+
+<img src="assets/line.gif" width="100%" height="20"/>
+
+<div align="center">
+
+###  Highlights
+
+ **IIT Jodhpur** - B.Tech Electrical Engineering  
+ **Tata Motors** - Robotics Software Intern  
+ **JEE Advanced** - AIR 6479 among 2.5 lakh candidates  
+ **IEEE ICC 2023** - Published research on swarm control
+
+</div>
+
+<img src="assets/line.gif" width="100%" height="20"/>
+
+<div align="center">
+
+###  Fun Projects
+
+ **MIPS Simulator IDE** - Web-based processor simulator  
+ **LinkedIn Scraper** - Automated profile extraction  
+ **HopNGo** - Unified ride booking platform  
+ **Sketch Generator** - Sequential sketch generation model  
+ **BLE Tracker** - AirTag-inspired tracking system
+
+</div>
+
+<img src="assets/line.gif" width="100%" height="20"/>
+
+<div align="center">
+
+###  Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuj-vijay-patil/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AnujPatil110377)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://myportfolio707.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b22ee010@iitj.ac.in)
+
+</div>
+
+<div align="center">
+
+<img src="assets/pixel-banner.gif" width="100%" height="2"/>
+
+*"In robotics, every bug is a feature waiting to be discovered in the real world"* 
+
+<img src="assets/pixel-banner.gif" width="100%" height="2"/>
+
 </div>
