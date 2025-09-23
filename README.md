@@ -3,11 +3,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hola!;I'm+Anuj%2C+a+software+engineer+%F0%9F%A4%96" width="75%" />
 <br><br>
 <pre>
-     C++ & Python  ROS2 & PX4  Robotics Engineer
-     Machine Learning  Autonomous Systems  Controls
-     Full-stack Development  Embedded Systems
-     Drone Navigation  Computer Vision  IoT
-     SLAM  Reinforcement Learning  Real-time Systems
+     🤖 C++ & Python • ROS2 & PX4 • Robotics Engineer
+     🎯 Machine Learning • Autonomous Systems • Controls
+     🛠️ Full-stack Development • Embedded Systems
+     🚁 Drone Navigation • Computer Vision • IoT
+     🎮 SLAM • Reinforcement Learning • Real-time Systems
 </pre>
 <br><br>
 <img src="./assets/kyubey.gif" height="40" />
