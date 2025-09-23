@@ -10,7 +10,7 @@
      🚁 Drone Navigation • Computer Vision • IoT
      🎮 SLAM • Reinforcement Learning • Real-time Systems
 </pre>
-<br>
+
 
 <table>
   <tr>
