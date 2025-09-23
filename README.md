@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=2000&pause=200&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hola!;I'm+Anuj%2C+a+software+engineer+and+Robotics+Enthusiast%F0%9F%A4%96" width="80%" />
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<br>
+
 <pre style="text-align: right;">
      🤖 C++ & Python • ROS2 & PX4 • Robotics Engineer
      🎯 Machine Learning • Autonomous Systems • Controls
@@ -10,7 +10,7 @@
      🚁 Drone Navigation • Computer Vision • IoT
      🎮 SLAM • Reinforcement Learning • Real-time Systems
 </pre>
-
+<br>
  <p style="text-align: center;">💻 Tech Stack</p>
 
 <table>
