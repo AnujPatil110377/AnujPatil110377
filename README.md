@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=600&size=45&duration=2000&pause=200&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hola!;I'm+Anuj%2C+a+software+engineer+and+Robotics+Enthusiast%F0%9F%A4%96" width="80%" />
-<img src="walk.gif" width="25%" align="right" />
+<img src="https://cdn.jsdelivr.net/gh/free-whiteboard-online/Free-Erasorio-Alternative-for-Collaborative-Design@d05ef8546a57c539c14b216e516a8ddea866a381/uploads/2025-09-30T23-42-17-293Z-rsc8e24zp.gif" width="25%" align="right" />
 <br>
 <pre style="text-align: right;">
      🤖 C++ & Python • ROS2 & PX4 • Robotics Engineer
