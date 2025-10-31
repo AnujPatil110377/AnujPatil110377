@@ -77,7 +77,7 @@
 
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/anuj-vijay-patil/)
 [![](https://img.shields.io/badge/github-100000)](https://github.com/AnujPatil110377)
-[![](https://img.shields.io/badge/portfolio-ff5722)](https://myportfolio707.netlify.app/)
+[![](https://img.shields.io/badge/portfolio-ff5722)](https://www.anujpatil.info/)
 [![](https://img.shields.io/badge/email-d14836)](mailto:b22ee010@iitj.ac.in)
 
 
